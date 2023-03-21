@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bedziox
 - 👀 I’m interested in technology and computer games
-- 🌱 I’m currently learning  C++ and Java.
+- 🌱 I’m currently learning  C++ and C#.
 - 📫 How to reach me :
   - https://www.linkedin.com/in/daniel-bednarek2001
 
